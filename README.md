@@ -1,4 +1,4 @@
-# Image Caption Generator - Flickr Dataset
+# Stable Diffusion - Flickr Dataset
 
 **Complete Video Tutorial:** https://youtu.be/fUSTbGrL1tc
 
